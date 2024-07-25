@@ -1,4 +1,4 @@
-# workspaces
+# Bun workspaces
 
 To install dependencies:
 
